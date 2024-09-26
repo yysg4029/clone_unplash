@@ -82,12 +82,5 @@
         "label" : "스포츠",
         "searchValue" : "sports",
         "isActive" : false
-    },
-    {
-        "index" : 3,
-        "path" : "/oneColor",
-        "label" : "단색",
-        "searchValue" : "one color",
-        "isActive" : false
     }
 ]
