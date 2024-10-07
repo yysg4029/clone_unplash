@@ -48,12 +48,14 @@ export default tseslint.config({
   },
 })
 
+```
+강의 URL : https://www.youtube.com/watch?v=Yv5tSNr4h2c&t=16269s
 1. 프로젝트 환경설정(vite를 활용한 React 프로젝트) 설치 : 'npm install vite@latest'
 2. React 중앙집중식 상태관리 라이브러리 Recoil 설치 : 'npm install recoil'
 3. 외부 오픈 API 통신을 위한 라이브러리 axios 설치 : 'npm install axios'
 4. css 스타일링을 위한 sass/scss 설치 : 'npm install -D sass'
 5. React Router 설치 : 'npm install react-router-dom localforage match-sorter sort-by'
-6. TypeScript에서 node.js 모듈을 사용 할 수 있는 환경 구축 : 'npm i @types/node'
-7. React Toast Popup 모듈 설치 : 'npm install react-simple-toast
- 
+6. TypeScript에서 node.js 모듈을 사용 할 수 있는 환경 구축 : 'npm install @types/node'
+7. React Toast Popup 모듈 설치 : 'npm install react-simple-toast'
+
 ```
